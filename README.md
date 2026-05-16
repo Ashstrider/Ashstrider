@@ -10,7 +10,7 @@ Nice to meet you!😋
 - 📫 How to reach me:
 -   QQ: 2733511912
 -   email: 2733511912@qq.com
--   wechat: IamUTF-8s
+-   wechat: Ashstrider
 - 😄 Pronouns: Ashstrider
 - ⚡ Fun fact: NULL
 
