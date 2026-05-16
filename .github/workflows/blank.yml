@@ -30,3 +30,11 @@ jobs:
           # template: classic
           # base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
+
+          # 开启语言统计插件
+          plugin_languages: yes
+          plugin_languages_details: percentage, bytes-size
+          # 开启习惯分析插件
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
