@@ -39,7 +39,7 @@
   <p>
     QQ: 2733511912
     <br> 
-    email: 2733511912@qq.com
+    email: 2733511912@qq.com || UTF-8s@outlook.com
     <br> 
     wechat: Ashstrider 
   </p>
